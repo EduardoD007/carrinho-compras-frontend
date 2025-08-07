@@ -1,0 +1,128 @@
+.modal-container {
+  position: fixed;
+  top:240px;
+  left: 525px;
+  width: 25%;
+  height: fit-content;
+  border: 1px solid rgb(172, 171, 171);
+  border-radius: 20px;
+  display: flex;
+  background-color: white;
+  padding: 25px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.modal-container .titulo {
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 5px;
+
+}
+
+.modal-container .subtitulo {
+  font-size: 12px;
+  font-size: 14px;
+  color:rgb(126, 114, 114);
+  margin-bottom: 25px;
+}
+
+.modal-container .produtos-container-2 {
+  width: 100%;
+  height: fit-content;
+  background-color: rgb(253, 246, 242);
+  border-radius: 8px;
+}
+
+.modal-container .produtos-container {
+ display: flex
+}
+
+.modal-container .quantidade{
+  margin-top: 15px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-left: 10px;
+  text-align: left;
+  font-size: 14px;
+  color: rgb(238, 134, 49);
+  font-weight: bold;
+}
+
+.modal-container .nome{
+  margin-top: 14px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-left: 10px;
+  text-align: left;
+  font-size: 14px;
+  font-weight: bold;
+  color: rgb(87, 87, 87);
+}
+
+.modal-container .valor{
+  margin-top: 15px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-left: 10px;
+  text-align: left;
+  font-size: 14px;
+  color:rgb(126, 114, 114);
+}
+
+.modal-container .total{
+  margin-top: 15px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-left: 10px;
+  text-align: left;
+  font-size: 15px;
+  color:rgb(54, 52, 52);
+  font-weight: bold;
+}
+
+.modal-container .linha-separacao {
+  display:flex;
+  justify-content: center;
+  border-bottom: 1px solid #e4e2e2;
+  margin-left: 10px;
+  margin-top: 15px;
+  width: 95%;
+}
+
+.modal-container .produto-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.modal-container .produto {
+  width: 83%;
+  text-align: left;
+}
+
+.modal-container .remove {
+  margin-top: 30px;
+  border: none;
+  background-color: white;
+  color: rgb(126, 114, 114);;
+  font-weight: bold;
+}
+
+.modal-container .total-compra {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.modal-container .total-compra-label {
+  width: 65%;
+  font-size: 14px;
+  color:rgb(110, 90, 90);
+  text-align: left;
+}
+
+.modal-container .total-compra-valor {
+  font-size: 22px;
+  font-weight: bold;
+}

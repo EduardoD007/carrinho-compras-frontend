@@ -1,0 +1,40 @@
+.card-sobremesa {
+  display: flex;
+  flex-direction: column;
+  width: 230px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 15px;
+
+}
+
+.card-sobremesa .container {
+  position: relative;
+  display: inline-block;
+}
+
+img {
+  width: 100%;
+  border-radius: 10px;
+  display: block;
+}
+
+.card-sobremesa .categoria {
+  margin-top: 25px;
+  text-align: left;
+  color: rgb(163, 163, 163);
+  font-size: 14px;
+}
+
+.card-sobremesa .produto {
+  text-align: left;
+  color: rgb(0, 0, 0);
+  font-size: 17px;
+}
+
+.card-sobremesa .valor {
+  text-align: left;
+  color: rgb(233, 165, 19);
+  font-size: 17px;
+  font-weight: bold;
+}
+
