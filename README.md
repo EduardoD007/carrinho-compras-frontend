@@ -1,6 +1,6 @@
 
 <h1 align="center">Família Financeiro</h1>
-<h2 align="center">Projeto do front-end</h2>
+<h2 align="center">Projeto do Frontend</h2>
 
 
 <div  align="center">
