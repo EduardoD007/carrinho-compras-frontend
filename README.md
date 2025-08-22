@@ -47,3 +47,13 @@
 <div  align="center">
   <img src="https://github.com/user-attachments/assets/c2a19b7f-6e4e-4c15-bfb4-bcebf618c298"></img>
 </div>
+
+## �� Tecnologias
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React.js%20-%20green?style=for-the-badge&logo=React.js">
+  <img src="https://img.shields.io/badge/HTML5%20-%20blue?style=for-the-badge&logo=HTML5">
+  <img src="https://img.shields.io/badge/CSS%20-%20orange?style=for-the-badge&logo=CSS">
+  <img src="https://img.shields.io/badge/Typescript%20-%20blue?style=for-the-badge&logo=typescript">
+  <img src="(https://img.shields.io/badge/Redux%20-%20gray?style=for-the-badge&logo=Redux">
+</div>
